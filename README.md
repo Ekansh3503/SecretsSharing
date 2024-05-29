@@ -1,6 +1,6 @@
 # Secrets-Sharing
 
-```markdown
+
 ## Description
 
 This is a web application that allows users to share secrets anonymously. Users can register an account, log in using their credentials or Google account, submit secrets, and view secrets submitted by other users.
