@@ -1,11 +1,9 @@
-# Authentication-Secrets
-
-Below is a template for a README file for your Node.js application. This README should provide basic information about your application, how to set it up, and how to use it.
+# Secrets-Sharing
 
 ```markdown
-# Secrets App
+## Description
 
-The Secrets App is a web application that allows users to share secrets anonymously. Users can register an account, log in using their credentials or Google account, submit secrets, and view secrets submitted by other users.
+This is a web application that allows users to share secrets anonymously. Users can register an account, log in using their credentials or Google account, submit secrets, and view secrets submitted by other users.
 
 ## Features
 
@@ -35,7 +33,7 @@ The Secrets App is a web application that allows users to share secrets anonymou
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/secrets-app.git
+git clone https://github.com/Ekansh3503/SecretsSharing.git
 ```
 
 2. Navigate into the project directory:
@@ -80,4 +78,3 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
